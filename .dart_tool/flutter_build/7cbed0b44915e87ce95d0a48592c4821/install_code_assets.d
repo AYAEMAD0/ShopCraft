@@ -1,0 +1,1 @@
+ J:\\information\\mobile\ apps\\Project\ GitHub\\ShopCraft\\.dart_tool\\flutter_build\\7cbed0b44915e87ce95d0a48592c4821\\native_assets.json: 

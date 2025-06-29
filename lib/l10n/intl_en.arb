@@ -1,0 +1,101 @@
+{
+  "@@locale": "en",
+  "appTitle": "ShopCraft",
+  "welcomeSubtitle": "Your Premium Shopping Experience",
+  "ourProducts": "Our Products",
+  "hotOffers": "Hot Offers",
+  "featuredProducts": "Featured Products",
+  "shopCollection": "Shop Our Collection",
+  "signUp": "Sign Up",
+  "signIn": "Sign In",
+  "createAccount": "Create Account",
+  "welcomeBack": "Welcome Back",
+  "signInTo": "Sign in to ShopCraft",
+  "fullName": "Full Name",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "success": "Success!",
+  "accountCreated": "Account created successfully",
+  "accountSignedIn": "Account sign-in successfully",
+  "close": "Close",
+
+  "offer1Title": "50% Off Electronics",
+  "offer1Subtitle": "Limited time offer on all tech gadgets",
+  "offer1Shape": "50% OFF",
+
+  "offer2Title": "Free Shipping Weekend",
+  "offer2Subtitle": "No delivery charges on orders above $50",
+  "offer2Shape": "FREE SHIP",
+
+  "offer3Title": "Buy 2 Get 1 Free",
+  "offer3Subtitle": "On selected accessories and peripherals",
+  "offer3Shape": "B2G1",
+
+  "offer4Title": "Student Discount",
+  "offer4Subtitle": "Extra 20% off with valid student ID",
+  "offer4Shape": "20% OFF",
+
+  "offer5Title": "Bundle Deals",
+  "offer5Subtitle": "Save more when you buy complete setups",
+  "offer5Shape": "BUNDLE",
+
+  "itemAddedToCart": "Item added to the cart",
+  "productAddedSuccessfully": "{productName} added successfully!",
+  "@productAddedSuccessfully": {
+    "description": "Message showing that product was added",
+    "placeholders": {
+      "productName": {}
+    }
+  },
+
+  "carouselTitle1": "Premium Laptop Collection",
+  "carouselTitle2": "Professional Workspace",
+  "carouselTitle3": "Ambient Lighting",
+
+  "dialogSuccessTitle": "Welcome!",
+  "dialogSuccessDescription": "Account sign-in successfully",
+  "dialogButtonText": "Close",
+
+  "productPrice": "{price}",
+  "productName": "{name}",
+  "@productPrice": {
+    "description": "Displays product price with currency",
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "@productName": {
+    "description": "Displays product name",
+    "placeholders": {
+      "name": {}
+    }
+  },
+
+  "product_macbook": "MacBook Pro 16",
+  "product_headphones": "Wireless Headphones",
+  "product_watch": "Smart Watch",
+  "product_backpack": "Designer Backpack",
+  "product_keyboard": "Premium Keyboard",
+  "product_mouse": "Wireless Mouse",
+
+  "productPrice": "{price}",
+  "@productPrice": {
+    "description": "Displays product price with currency",
+    "placeholders": {
+      "price": {}
+    }
+  },
+
+  "fieldRequired": "{field} is required",
+  "enterValidEmail": "Please enter a valid email",
+  "passwordMinLength": "Password must be at least 6 characters",
+  "passwordsDoNotMatch": "Passwords do not match",
+  "lettersOnly": "Only letters and spaces are allowed",
+  "firstLetterUppercase": "First letter must be uppercase"
+
+
+
+
+
+}
