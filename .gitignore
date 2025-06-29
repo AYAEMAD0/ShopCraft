@@ -1,0 +1,37 @@
+# Dart & Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+pubspec.lock
+
+# Android
+android/app/debug
+android/app/profile
+android/app/release
+*.apk
+*.aab
+
+# iOS & macOS
+ios/
+macos/
+
+# Web
+build/web/
+
+# Windows & Linux
+windows/
+linux/
+
+# VSCode & IntelliJ
+.idea/
+.vscode/
+
+# Others
+*.log
+*.lock
+*.tmp
+.DS_Store
